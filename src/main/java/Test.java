@@ -9,7 +9,7 @@ public class Test {
     public static void main(String[] args){
 
         File myObj = new File("/Users/apple/Documents/logs/greplog.log");
-        //File fileout = new File("/Users/apple/Documents/support/143_TIETOOEMSUB-231/logd/logout.log");
+        //File fileout = new File("/Users/apple/Documents/logd/logout.log");
 
         String[] cid = new String[17000];
 
